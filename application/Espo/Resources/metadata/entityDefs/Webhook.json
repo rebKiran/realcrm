@@ -1,0 +1,12 @@
+{
+  "views": {
+    "list": "custom:views/Webhook/list",
+    "detail": "custom:views/Webhook/detail",
+    "edit": "custom:views/Webhook/edit"
+  },
+  "recordViews": {
+    "list": "custom:views/Webhook/record/list",
+    "detail": "custom:views/Webhook/record/detail",
+    "edit": "custom:views/Webhook/record/edit"
+  }
+}

@@ -1,0 +1,18 @@
+{
+    "labels": {
+        "Create Webhook": "Create Webhook"
+    },
+    "fields": {
+        "webhookName": "Webhook Name",
+        "code": "Code",
+        "campaign": "Campaign",
+        "dbFields": "DbFields",
+        "parameters": "Parameters",
+        "name": "Name"
+    },
+    "links": {
+        "campaign": "Campaign",
+        "dbFields": "DbFields",
+        "parameters": "Parameters"
+    }
+}

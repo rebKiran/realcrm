@@ -1,0 +1,10 @@
+{
+    "scopeNames": {
+        "Webhook": "Webhook",
+        "Parameter": "Parameter"
+    },
+    "scopeNamesPlural": {
+        "Webhook": "Webhooks",
+        "Parameter": "Parameters"
+    }
+}

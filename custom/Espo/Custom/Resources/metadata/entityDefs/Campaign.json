@@ -1,0 +1,21 @@
+{
+    "fields": {
+        "webhooks": {
+            "type": "linkMultiple",
+            "layoutDetailDisabled": true,
+            "layoutListDisabled": true,
+            "layoutMassUpdateDisabled": true,
+            "noLoad": true,
+            "importDisabled": true,
+            "isCustom": true
+        }
+    },
+    "links": {
+        "webhooks": {
+            "type": "hasMany",
+            "foreign": "campaign",
+            "entity": "Webhook",
+            "isCustom": true
+        }
+    }
+}

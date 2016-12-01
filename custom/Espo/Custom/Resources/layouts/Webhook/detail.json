@@ -1,0 +1,28 @@
+[
+    {
+        "label": "Webhook Information",
+        "rows": [
+            [
+                {
+                    "name": "name"
+                },
+                {
+                    "name": "campaign"
+                }
+            ]
+        ]
+    },
+    {
+        "label": "Code Generation",
+        "rows": [
+            [
+                {
+                    "name": "parameters"
+                },
+                {
+                    "name": "code"
+                }
+            ]
+        ]
+    }
+]
